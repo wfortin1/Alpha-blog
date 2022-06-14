@@ -204,6 +204,7 @@ GEM
 
 PLATFORMS
   -darwin-21
+  ruby
 
 DEPENDENCIES
   bcrypt (~> 3.1.7)
@@ -228,7 +229,7 @@ DEPENDENCIES
   will_paginate (~> 3.1.0)
 
 RUBY VERSION
-   ruby 2.6.3p62
+   ruby 2.7.6p219
 
 BUNDLED WITH
    2.3.9
