@@ -9,7 +9,7 @@ class CategoriesController < ApplicationController
   end
 
   def show
-
+    @category = Category.last
   end
 
   def create
